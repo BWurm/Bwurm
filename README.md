@@ -1,4 +1,4 @@
-### Hi there 👋
+### Trying to figure this all out.
 
 <!--
 **BWurm/Bwurm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
